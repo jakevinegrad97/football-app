@@ -1,0 +1,24 @@
+Barnet : 50 : 50 : NL
+Boreham Wood : 38 : 54 : NL
+Bradford : 40 : 55 : L2
+Cambridge : 46 : 46 : L2
+Cheltenham : 51 : 60 : L2
+Chesterfield : 39 : 49 : NL
+Crewe : 57 : 57 : L2
+Dagenham and Redbridge : 35 : 52 : NL
+Dover : 39 : 55 : NL
+Exeter : 57 : 60 : L2
+Fleetwood : 50 : 53 : L1
+Gillingham : 65 : 65 : L1
+Harrogate : 46 : 55 : NL
+Lincoln : 64 : 65 : L1
+Macclesfield : 54 : 55 : L2
+Morecambe : 60 : 59 : L2
+Newport : 50 : 52 : L2
+Plymouth : 46 : 59 : L2
+Scunthorpe : 40 : 53 : L2
+Stevenage : 41 : 59 : L2
+Stoke : 59 : 69 : CH
+Sutton United : 48 : 55 : NL
+Swansea : 55 : 70 : CH
+Wimbledon : 51 : 60 : L1

@@ -1,0 +1,24 @@
+Bromley : 48 : 50 : NL
+Carlisle : 55 : 55 : L2
+Chorley : 35 : 48 : NL
+Colchester : 39 : 44 : L2
+Crawley : 39 : 55 : L2
+Ebbsfleet : 30 : 37 : NL
+Gateshead : 40 : 48 : NL
+Grimsby : 40 : 42 : L2
+Halifax : 36 : 48 : NL
+Hartlepool : 33 : 49 : NL
+Maidenhead United : 49 : 49 : NL
+Mansfield : 35 : 53 : L2
+Northampton : 49 : 54 : L2
+Notts County : 33 : 50 : NL
+Salford : 40 : 53 : L2
+Solihull Moors : 30 : 48 : NL
+Stockport : 36 : 50 : NL
+Sunderland : 60 : 60 : L1
+Swindon : 55 : 55 : L2
+Torquay : 34 : 50 : NL
+Walsall : 37 : 55 : L2
+Working : 38 : 47 : NL
+Wrexham : 37 : 50 : NL
+Yeovil : 37 : 49 : NL

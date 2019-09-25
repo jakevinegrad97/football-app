@@ -1,0 +1,25 @@
+#									    P   W   D   L   F   A   D   P
+ 1 : Macclesfield :                     46   27   11   8   76   40   36   92
+ 2 : Barnet :                           46   25   9   12   66   50   16   84
+ 3 : Carlisle :                         46   24   11   11   73   45   28   83
+ 4 : Sunderland :                       46   24   8   14   70   40   30   80
+ 5 : Bromley :                          46   21   10   15   61   44   17   73
+ 6 : Swindon :                          46   19   15   12   63   44   19   72
+ 7 : Northampton :                      46   20   11   15   54   48   6   71
+ 8 : Stockport :                        46   17   19   10   65   45   20   70
+ 9 : Chorley :                          46   20   10   16   62   60   2   70
+10 : Maidenhead United :                46   19   12   15   61   57   4   69
+11 : Yeovil :                           46   17   15   14   52   48   4   66
+12 : Crawley :                          46   18   10   18   50   58   -8   64
+13 : Gateshead :                        46   15   17   14   53   51   2   62
+14 : Solihull Moors :                   46   13   18   15   51   58   -7   57
+15 : Notts County :                     46   15   10   21   41   48   -7   55
+16 : Hartlepool :                       46   13   16   17   46   59   -13   55
+17 : Torquay :                          46   16   6   24   44   60   -16   54
+18 : Wrexham :                          46   14   11   21   51   62   -11   53
+19 : Working :                          46   13   13   20   45   53   -8   52
+20 : Colchester :                       46   14   9   23   45   71   -26   51
+21 : Walsall :                          46   11   17   18   44   55   -11   50
+22 : Mansfield :                        46   12   12   22   45   62   -17   48
+23 : Halifax :                          46   11   13   22   37   59   -22   46
+24 : Ebbsfleet :                        46   6   13   27   38   76   -38   31

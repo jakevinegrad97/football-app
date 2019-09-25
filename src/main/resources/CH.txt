@@ -1,0 +1,24 @@
+Accrington : 57 : 66 : L1
+Aston Villa : 77 : 74 : PL
+Birmingham : 64 : 72 : CH
+Blackpool : 55 : 67 : L1
+Brentford : 60 : 73 : CH
+Brighton : 79 : 100 : PL
+Bristol City : 67 : 86 : CH
+Burton : 70 : 69 : L1
+Coventry : 63 : 66 : L1
+Doncaster : 65 : 64 : L1
+Everton : 69 : 79 : PL
+Fulham : 74 : 73 : CH
+Liverpool : 70 : 80 : PL
+Millwall : 60 : 69 : CH
+Newcastle : 79 : 79 : PL
+Nottingham Forest : 65 : 74 : CH
+Portsmouth : 69 : 69 : L1
+Reading : 73 : 74 : CH
+Southend : 64 : 65 : L1
+Tottenham : 67 : 76 : PL
+Tranmere : 69 : 70 : L1
+West Brom : 82 : 94 : CH
+Wigan : 69 : 68 : CH
+Wycombe : 68 : 69 : L1

@@ -1,0 +1,25 @@
+#									    P   W   D   L   F   A   D   P
+ 1 : Wigan :                            46   30   12   4   80   39   41   102
+ 2 : Doncaster :                        46   25   14   7   83   39   44   89
+ 3 : MK Dons :                          46   26   9   11   81   50   31   87
+ 4 : Bristol Rovers :                   46   23   14   9   73   34   39   83
+ 5 : Southend :                         46   24   11   11   67   42   25   83
+ 6 : Ipswich :                          46   24   10   12   75   51   24   82
+ 7 : Leyton Orient :                    46   23   10   13   73   40   33   79
+ 8 : Huddersfield :                     46   20   15   11   65   51   14   75
+ 9 : Barrow :                           46   22   9   15   65   54   11   75
+10 : Oldham :                           46   20   12   14   53   50   3   72
+11 : Leicester :                        46   20   11   15   68   51   17   71
+12 : Sheffield Wednesday :              46   18   10   18   50   46   4   64
+13 : Shrewsbury :                       46   16   15   15   64   64   0   63
+14 : Hull :                             46   16   15   15   51   53   -2   63
+15 : Luton :                            46   17   11   18   47   48   -1   62
+16 : Fylde :                            46   15   10   21   52   67   -15   55
+17 : Eastleigh :                        46   15   6   25   46   65   -19   51
+18 : Forest Green :                     46   11   12   23   33   56   -23   45
+19 : Oxford United :                    46   12   8   26   41   80   -39   44
+20 : Rochdale :                         46   8   18   20   42   58   -16   42
+21 : Newport :                          46   8   14   24   44   77   -33   38
+22 : Fleetwood :                        46   9   7   30   43   93   -50   34
+23 : Wimbledon :                        46   7   12   27   38   74   -36   33
+24 : Cambridge :                        46   6   9   31   39   91   -52   27

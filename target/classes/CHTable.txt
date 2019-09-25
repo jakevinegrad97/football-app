@@ -1,0 +1,25 @@
+#									    P   W   D   L   F   A   D   P
+ 1 : Crystal Palace :                   46   27   14   5   88   41   47   95
+ 2 : QPR :                              46   26   13   7   78   37   41   91
+ 3 : Tranmere :                         46   27   10   9   79   45   34   91
+ 4 : Newcastle :                        46   26   12   8   82   44   38   90
+ 5 : Bournemouth :                      46   23   12   11   65   41   24   81
+ 6 : Fulham :                           46   23   12   11   66   49   17   81
+ 7 : Burton :                           46   23   11   12   71   49   22   80
+ 8 : Reading :                          46   21   15   10   76   54   22   78
+ 9 : Portsmouth :                       46   19   13   14   66   50   16   70
+10 : Everton :                          46   18   16   12   62   46   16   70
+11 : Aston Villa :                      46   17   17   12   66   47   19   68
+12 : Nottingham Forest :                46   15   16   15   64   61   3   61
+13 : Liverpool :                        46   15   13   18   51   55   -4   58
+14 : Wycombe :                          46   14   13   19   64   67   -3   55
+15 : Tottenham :                        46   15   10   21   54   61   -7   55
+16 : Brentford :                        46   12   13   21   42   60   -18   49
+17 : Birmingham :                       46   13   9   24   52   69   -17   48
+18 : Coventry :                         46   10   16   20   48   82   -34   46
+19 : Accrington :                       46   12   10   24   42   79   -37   46
+20 : Blackpool :                        46   11   11   24   45   68   -23   44
+21 : Millwall :                         46   10   12   24   54   79   -25   42
+22 : Peterborough :                     46   11   8   27   53   96   -43   41
+23 : Bury :                             46   6   15   25   36   75   -39   33
+24 : Southampton :                      46   8   9   29   40   89   -49   33

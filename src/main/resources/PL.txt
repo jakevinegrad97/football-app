@@ -1,0 +1,20 @@
+Arsenal : 98 : 99 : PL
+Barnsley : 67 : 90 : CH
+Blackburn : 68 : 72 : CH
+Bournemouth : 80 : 80 : PL
+Burnley : 91 : 99 : PL
+Cardiff : 89 : 95 : CH
+Charlton : 74 : 95 : CH
+Chelsea : 91 : 99 : PL
+Crystal Palace : 80 : 79 : PL
+Derby : 84 : 94 : CH
+Leeds : 67 : 95 : CH
+Manchester City : 100 : 100 : PL
+Manchester United : 100 : 99 : PL
+Middlesborough : 93 : 94 : CH
+Norwich : 88 : 96 : PL
+QPR : 75 : 75 : CH
+Sheffield United : 99 : 98 : PL
+Watford : 100 : 100 : PL
+West Ham : 84 : 96 : PL
+Wolverhampton : 73 : 78 : PL
